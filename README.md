@@ -19,7 +19,7 @@ Stack:
 - Webpack
 - CMS: Prismic
 
-### [Nuxt Project](https://github.com/sergiulucutar/site-album)
+### [Nuxt Project](https://github.com/sergiulucutar/nuxt-gradient)
 Trying NUXT with PixiJS to make to transition between routes while following a animation similar to [this.](https://leonard.agency/)
 
 Stack:
