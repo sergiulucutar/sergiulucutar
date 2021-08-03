@@ -8,7 +8,10 @@ I’m interested in things that have to do with visual design, animation, intera
 
 ## 📦 Personal Projects
 ### [Articles](https://github.com/sergiulucutar/site-cube-articles)
+[Vimeo Link](https://vimeo.com/582526281)
 ### [Album](https://github.com/sergiulucutar/site-album)
+[Vimeo Link](https://vimeo.com/582526281)
+
 Experimenting with OGL and 3D for transitioning between pages, while following a [design from Dribble.](https://dribbble.com/shots/15770486-UI-Concept-3)
 
 Stack:
