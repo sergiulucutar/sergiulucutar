@@ -24,6 +24,7 @@ Stack:
 
 ### [Nuxt Project](https://github.com/sergiulucutar/nuxt-gradient)
 [Vimeo Link](https://vimeo.com/582526281)
+
 Trying NUXT with PixiJS to make to transition between routes while following a animation similar to [this.](https://leonard.agency/)
 
 Stack:
@@ -32,7 +33,7 @@ Stack:
 - PixiJS
 - GSAP
 
-### [Folio v1](http://sergiulucutar.com/)
+### [Folio v1 ↗](http://sergiulucutar.com/)
 *I should make a new one*
 
 A website showcasing some of my personal projects made with technologies I was exploring at the time.
