@@ -8,9 +8,9 @@ I’m interested in things that have to do with visual design, animation, intera
 
 ## 📦 Personal Projects
 ### [Articles](https://github.com/sergiulucutar/site-cube-articles)
-[Vimeo Link](https://vimeo.com/582526281)
+[Vimeo Link](https://vimeo.com/582528783)
 ### [Album](https://github.com/sergiulucutar/site-album)
-[Vimeo Link](https://vimeo.com/582526281)
+[Vimeo Link](https://vimeo.com/582533218)
 
 Experimenting with OGL and 3D for transitioning between pages, while following a [design from Dribble.](https://dribbble.com/shots/15770486-UI-Concept-3)
 
@@ -23,6 +23,7 @@ Stack:
 - CMS: Prismic
 
 ### [Nuxt Project](https://github.com/sergiulucutar/nuxt-gradient)
+[Vimeo Link](https://vimeo.com/582526281)
 Trying NUXT with PixiJS to make to transition between routes while following a animation similar to [this.](https://leonard.agency/)
 
 Stack:
